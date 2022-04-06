@@ -20,7 +20,6 @@ const getUsers = (usersFromDB) => {
       name: user.name,
       score: user.score,
       numberOfCorrectAnswers: user.numberOfCorrectAnswers,
-      avgAnswerTime: user.avgAnswerTime,
     };
   });
 };

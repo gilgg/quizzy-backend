@@ -16,11 +16,6 @@ const userSchema = mongoose.Schema({
     required: true,
     trim: true,
   },
-  avgAnswerTime: {
-    type: String,
-    required: true,
-    trim: true,
-  },
 });
 
 const User = mongoose.model("User", userSchema);
