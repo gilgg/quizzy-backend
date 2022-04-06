@@ -15,7 +15,7 @@ Quizzy is a game quiz.
 You have to answer 15 questions in 30 seconds each.
 If you are able to answer at least 12 correctly then you win.
 
-> **You can take a look at the backend repo [here](https://github.com/gilgg/quizzy-frontend)**
+> **You can take a look at the frontend repo [here](https://github.com/gilgg/quizzy-frontend)**
 
 > **Go to [Website](https://gil-quizzy.netlify.app/)**
 
