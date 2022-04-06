@@ -1,4 +1,4 @@
-![Transactions-Viewer Banner](https://i.ibb.co/0J4g5H1/transactions-viewer-banner.png)
+![Quizzy Banner](https://i.ibb.co/JRKTx1m/quizzy-banner.png)
 
 # Contents
 
@@ -11,13 +11,13 @@
 
 # Overview 👋
 
-Transactions Viewer app lets simulates a company's transactions system. In it you can view your store's transactions, edit, add, and delete them. You can also add, edit, delete and view customers.
-You can sort the transactions by any way you like by clicking on the table's headers, and can also view the customers locations on the map.  
-If you'd like, you can make use of pagination and limit the results on your page for better usage and comfortability.
+Quizzy is a game quiz.
+You have to answer 15 questions in 30 seconds each.
+If you are able to answer at least 12 correctly then you win.
 
-> **You can take a look at the backend repo [here](https://github.com/gilgg/gil-transaction-viewer-frontend)**
+> **You can take a look at the backend repo [here](https://github.com/gilgg/quizzy-frontend)**
 
-> **Go to [Website](https://gil-transactions-viewer.netlify.app/)**
+> **Go to [Website](https://gil-quizzy.netlify.app/)**
 
 <br />
 
@@ -36,22 +36,34 @@ If you'd like, you can make use of pagination and limit the results on your page
 
 # Screenshots 🎮
 
-![Transactions-Viewer Main](https://i.ibb.co/3vSVDnd/transactions-viewer-1.png)
+![Quizzy Welcome](https://i.ibb.co/wBcJ7y5/quizzy-1.png)
 
 <br />
 
-![Transactions-Viewer Map](https://i.ibb.co/PWpCsZ1/transactions-viewer-2.png)
+![Quizzy Game](https://i.ibb.co/6Prf8S1/quizzy-2.png)
 
 <br />
 
-![Transactions-Viewer Edit Transaction](https://i.ibb.co/sm4jdbY/transactions-viewer-3.png)
+![Quizzy Game Answered](https://i.ibb.co/5XHyhVr/quizzy-3.png)
 
 <br />
 
-![Transactions-Viewer Add Transaction](https://i.ibb.co/yhtPbcS/transactions-viewer-4.png)
+![Quizzy Game 50-50](https://i.ibb.co/JyCF5RL/quizzy-4.png)
+
+<br />
+
+![Quizzy Game Over](https://i.ibb.co/NmSPhcF/quizzy-5.png)
+
+<br />
+
+![Quizzy Game Win](https://i.ibb.co/QvgMjTC/quizzy-6.png)
+
+<br />
+
+![Quizzy Scoreboard](https://i.ibb.co/4MvYdDP/quizzy-7.png)
 
 <br />
 
 # Video 🎥
 
-https://user-images.githubusercontent.com/96532357/154420370-5ed5f3b2-d44d-40a7-8075-5ebbc0a3a73c.mp4
+https://user-images.githubusercontent.com/96532357/162079498-9a1423ae-7f94-42d2-b586-ae22b7966979.mp4
